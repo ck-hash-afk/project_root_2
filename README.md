@@ -49,7 +49,7 @@ project_root/
 ---
 
 ## 5. GitHub Repository URL
-- URL: [본인 저장소 링크 작성]  
+- URL: [(https://github.com/ck-hash-afk/project_root_2/tree/main)]  
 
 ---
 
